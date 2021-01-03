@@ -9,18 +9,18 @@
 
 ### Stuffs I know well.
 <p>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg alt=python width="30" height="30"/>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg alt=nodejs width="30" height="30"/>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg alt=mongodb width="30" height="30"/>
-  <img src=https://devicon.dev/devicon.git/icons/kotlin/kotlin-original.svg alt=kotlin width="30" height="30"/>
-  <img src=https://devicon.dev/devicon.git/icons/electron/electron-original.svg alt=express width="30" height="30"/>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg alt=git width="30" height="30"/>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg alt=linux width="30" height="30"/>
-  <img src=https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg alt=linux width="30" height="30"/>
-  <img src=https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg alt=yarn width="30" height="30"/>
-  <img src=https://devicon.dev/devicon.git/icons/nginx/nginx-original.svg alt=nginx width="30" height="30"/>
-  <img src=https://devicon.dev/devicon.git/icons/inkscape/inkscape-original.svg alt=inkscape width="30" height="30"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="30" height="30"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg alt=nodejs width="30" height="30"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg alt=mongodb width="30" height="30"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg alt=kotlin width="30" height="30"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg alt=express width="30" height="30"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt=linux width="30" height="30"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg alt=linux width="30" height="30"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg alt=yarn width="30" height="30"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg alt=nginx width="30" height="30"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg alt=inkscape width="30" height="30"/>
   <img src=https://caddyserver.com/resources/images/caddy-circle-lock.svg alt=caddyserver width="30" height="30"/>
 </p>
 <p>
