@@ -28,6 +28,6 @@
 </p>
 
 ### Some GitHub Stats 👀
-![Stats](https://metrics.lecoq.io/mage1k99?id=mage1k99)
+![](https://metrics.lecoq.io/mage1k99?id=mage1k99)
 
 #### Thanks for spending time reading this!
