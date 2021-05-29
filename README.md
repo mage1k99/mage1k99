@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Vue and Python Projects at [FossFreaks](https://fossfreaks.com)
-- 🌱 I’m currently learning GraphQL
-- 🤔 I’m looking for help with V lang
+- 🌱 I’m currently learning Golang
+- 🤔 I’m looking for help with Golang
 - 📫 How to reach me: Mail Me : [mage1k99@fossfreaks.com](mailto:mage1k99@fossfreaks.com) || [Telegram : mac1k99](https://t.me/mac1k99) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't like using Snap/Flatpak.
