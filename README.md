@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Vue and Python Projects at [FossFreaks](https://fossfreaks.com)
-- 🌱 I’m currently learning Golang
-- 🤔 I’m looking for help with Golang
+- 🔭 I’m currently working on Vue and Laravel Projects at [FossFreaks](https://fossfreaks.com)
+- 🌱 I’m currently learning Laravel
+- 🤔 I’m looking for help with Laravel
 - 📫 How to reach me: [mage1k99@fossfreaks.com](mailto:mage1k99@fossfreaks.com) || [Telegram : mac1k99](https://t.me/mac1k99) 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I don't like using Snap/Flatpak.
 
 ### Stuffs I know well.
 <p>
@@ -26,8 +25,5 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mage1k99&layout=compact&theme=tokyonight&langs_count=10">
 </p>
-
-### Some GitHub Stats 👀
-![](https://metrics.lecoq.io/mage1k99?id=mage1k99)
 
 #### Thanks for spending time reading this!
