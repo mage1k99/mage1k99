@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Vue and Laravel Projects
-- 🌱 I’m currently learning Laravel
-- 🤔 I’m looking for help with Laravel
-- 📫 How to reach me: [mage1k99@gmail.com](mailto:mage1k99@gmail.com) || [Telegram : mage1k99x](https://t.me/mage1k99x) 
+- 🔭 I’m currently working on React, NodeJS
+- 🌱 I’m currently learning React
+- 🤔 I’m looking for help with Spring
+- 📫 How to reach me: [mage1k99@gmail.com](mailto:mage1k99@gmail.com)
 - 😄 Pronouns: He/Him
 
 ### Status update
